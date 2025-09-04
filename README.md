@@ -5,6 +5,7 @@
   * `aboutme.php`: displays info about the developer of the LinkTree app.
   * `projects.php`: displays info and useful links to other projects of the developer.
 * Successfully deployed the app with the help of **InfinityFree**.
+* Performed edits on the `aboutme.php` page to include relevant information.
 
 ## :calendar: 03.09.2025
 * Created the `index.html` with the initial structure for the **LinkTree** website.
