@@ -24,7 +24,7 @@
     <h1>Andreea Ioana Dragu (Andre)</h1>
     <h2>Software QA Tester (Manual & Automation)</h2>
 
-    <p>Welcome to my personal webpage!</p>
+    <p>Welcome to my personal webpage! Below are the links to my socials.</p>
 
     <a class="icon" href="https://www.facebook.com/andre.dragu.5"> <i class="fa-brands fa-square-facebook fa-2x"></i> </a>
     <a class="icon" href="https://www.instagram.com/draguleee/"> <i class="fa-brands fa-square-instagram fa-2x"></i> </a>
