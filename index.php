@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+    <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Added for responsiveness -->
     <title> LinkTree - Andreea Ioana Dragu </title>
@@ -9,7 +9,15 @@
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
 </head>
 <body>
-    <?php include 'commons/header.php'; ?>
+    <header>
+        <div id="logo">
+            <a href="/"><i class="fa-solid fa-code-fork"></i> LinkTree</a>
+        </div>
+        <div>
+            <a href="pages/aboutme.php">About Me</a>
+            <a href="pages/projects.php">Projects</a>
+        </div>
+    </header>
 
     <img src="https://avatars.githubusercontent.com/u/64787485?v=4" alt="profile" width="150" height="150">
 

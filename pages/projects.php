@@ -1,11 +1,26 @@
 <!DOCTYPE html>
 <html>
+    <html>
     <head>
-
-    </head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Added for responsiveness -->
+    <title> Projects - Andreea Ioana Dragu </title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+</head>
     <body>
+        <header>
+            <div id="logo">
+                <a href="../"><i class="fa-solid fa-code-fork"></i> LinkTree</a>
+            </div>
+            <div>
+                <a href="aboutme.php">About Me</a>
+                <a href="#">Projects</a>
+            </div>
+    </header>
         <h1>Projects</h1>
         <p>Welcome to the Projects page!</p>
-        <p>To be continued... </p>
+        <p>To be continued...</p>
     </body>
 </html>
