@@ -1,5 +1,8 @@
 # Changelog
 
+## :calendar: 08.09.2025  
+* Made changes to the `styles.css` in order to support mobile responsiveness.
+
 ## :calendar: 04.09.2025
 * Created the following pages:  
   * `aboutme.php`: displays info about the developer of the LinkTree app.
